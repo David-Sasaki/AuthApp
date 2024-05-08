@@ -5,6 +5,7 @@ This project is a full-stack web application built with React for the frontend a
 ## Features
 
 - **Frontend:**
+
   - Sign In/Sign Up page for user authentication.
   - Dashboard page to display user emails and IDs.
   - Integration of Redux for state management.
@@ -24,7 +25,7 @@ This project is a full-stack web application built with React for the frontend a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-express-auth.git
+   git clone https://github.com/David-Sasaki/AuthApp.git
    ```
 
 2. Install dependencies for both frontend and backend:
@@ -36,7 +37,7 @@ This project is a full-stack web application built with React for the frontend a
    ```
 
 3. Set up MongoDB:
-   
+
    - Install MongoDB and start the server.
    - Update the MongoDB connection string in `backend/config.js`.
 
